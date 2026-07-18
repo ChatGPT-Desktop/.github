@@ -1,6 +1,6 @@
 # ChatGPT Desktop - AI Assistant App for Focused Computer Work
 
-![ChatGPT Desktop workspace with prompt panel and productivity tools](https://cdn.mos.cms.futurecdn.net/MutC6fzu9to2GNeWhXJHMT.png)
+![ChatGPT Desktop workspace with prompt panel and productivity tools](https://www.pcworld.com/wp-content/uploads/2025/04/chatgpt-windows-app.jpg?quality=50&strip=all&w=1024)
 
 ## Why ChatGPT Desktop Belongs on Your Computer
 
